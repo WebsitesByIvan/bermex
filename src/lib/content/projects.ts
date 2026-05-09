@@ -26,6 +26,48 @@ export const projectMalaga: ProjectContent = {
   ],
   slides: [
     {
+      src: "/projects/1238-malaga/malaga-coral-gables-staircase-iron-railing-art-wall.webp",
+      alt: "1238 Malaga — staircase with iron railing and art wall",
+      width: 2400,
+      height: 1600,
+    },
+    {
+      src: "/projects/1238-malaga/malaga-coral-gables-exterior-side-office-windows-dusk.webp",
+      alt: "1238 Malaga — side elevation with office windows at dusk",
+      width: 2400,
+      height: 1600,
+    },
+    {
+      src: "/projects/1238-malaga/malaga-coral-gables-exterior-entry-oak-tree-day.webp",
+      alt: "1238 Malaga — exterior entry with oak tree",
+      width: 2400,
+      height: 1600,
+    },
+    {
+      src: "/projects/1238-malaga/malaga-coral-gables-decorative-screen-panels-detail.webp",
+      alt: "1238 Malaga — decorative screen panels detail",
+      width: 2400,
+      height: 1600,
+    },
+    {
+      src: "/projects/1238-malaga/malaga-coral-gables-staircase-art-gallery-wall.webp",
+      alt: "1238 Malaga — staircase and art gallery wall",
+      width: 2400,
+      height: 1600,
+    },
+    {
+      src: "/projects/1238-malaga/malaga-coral-gables-upper-balcony-biltmore-view.webp",
+      alt: "1238 Malaga — upper balcony with Biltmore view",
+      width: 2400,
+      height: 1600,
+    },
+    {
+      src: "/projects/1238-malaga/malaga-coral-gables-upper-terrace-outdoor-kitchen-lounge.webp",
+      alt: "1238 Malaga — upper terrace outdoor kitchen and lounge",
+      width: 2400,
+      height: 1600,
+    },
+    {
       src: "/projects/1238-malaga/malaga-coral-gables-garage-gate-oak-tree-day.webp",
       alt: "1238 Malaga — garage gate and oak tree by day",
       width: 2400,
@@ -34,12 +76,6 @@ export const projectMalaga: ProjectContent = {
     {
       src: "/projects/1238-malaga/malaga-coral-gables-garage-gate-oak-tree-day-alt.webp",
       alt: "1238 Malaga — alternate view of garage gate and oak",
-      width: 2400,
-      height: 1600,
-    },
-    {
-      src: "/projects/1238-malaga/malaga-coral-gables-exterior-entry-oak-tree-day.webp",
-      alt: "1238 Malaga — exterior entry with oak tree",
       width: 2400,
       height: 1600,
     },
@@ -62,20 +98,8 @@ export const projectMalaga: ProjectContent = {
       height: 1600,
     },
     {
-      src: "/projects/1238-malaga/malaga-coral-gables-exterior-side-office-windows-dusk.webp",
-      alt: "1238 Malaga — side elevation with office windows at dusk",
-      width: 2400,
-      height: 1600,
-    },
-    {
       src: "/projects/1238-malaga/malaga-coral-gables-rotunda-columns-dusk.webp",
       alt: "1238 Malaga — rotunda and columns at dusk",
-      width: 2400,
-      height: 1600,
-    },
-    {
-      src: "/projects/1238-malaga/malaga-coral-gables-decorative-screen-panels-detail.webp",
-      alt: "1238 Malaga — decorative screen panels detail",
       width: 2400,
       height: 1600,
     },
@@ -100,18 +124,6 @@ export const projectMalaga: ProjectContent = {
     {
       src: "/projects/1238-malaga/malaga-coral-gables-grand-staircase-piano-art.webp",
       alt: "1238 Malaga — grand staircase with piano and art",
-      width: 2400,
-      height: 1600,
-    },
-    {
-      src: "/projects/1238-malaga/malaga-coral-gables-staircase-iron-railing-art-wall.webp",
-      alt: "1238 Malaga — staircase with iron railing and art wall",
-      width: 2400,
-      height: 1600,
-    },
-    {
-      src: "/projects/1238-malaga/malaga-coral-gables-staircase-art-gallery-wall.webp",
-      alt: "1238 Malaga — staircase and art gallery wall",
       width: 2400,
       height: 1600,
     },
@@ -217,18 +229,6 @@ export const projectMalaga: ProjectContent = {
       width: 2400,
       height: 1600,
     },
-    {
-      src: "/projects/1238-malaga/malaga-coral-gables-upper-balcony-biltmore-view.webp",
-      alt: "1238 Malaga — upper balcony with Biltmore view",
-      width: 2400,
-      height: 1600,
-    },
-    {
-      src: "/projects/1238-malaga/malaga-coral-gables-upper-terrace-outdoor-kitchen-lounge.webp",
-      alt: "1238 Malaga — upper terrace outdoor kitchen and lounge",
-      width: 2400,
-      height: 1600,
-    },
   ],
 };
 
@@ -245,14 +245,62 @@ export const projectZamora: ProjectContent = {
   ],
   slides: [
     {
-      src: "/projects/505-zamora/505-zamora-coral-gables-front-gate-entrance.webp",
-      alt: "505 Zamora — front gate and entrance drive, Coral Gables",
+      src: "/projects/505-zamora/505-zamora-coral-gables-aerial-pool-view.webp",
+      alt: "505 Zamora — aerial view of pool and grounds",
+      width: 2400,
+      height: 1600,
+    },
+    {
+      src: "/projects/505-zamora/505-zamora-coral-gables-foyer-interior.webp",
+      alt: "505 Zamora — foyer interior",
       width: 2400,
       height: 1600,
     },
     {
       src: "/projects/505-zamora/505-zamora-coral-gables-gate-dusk.webp",
       alt: "505 Zamora — gated entry at dusk",
+      width: 2400,
+      height: 1600,
+    },
+    {
+      src: "/projects/505-zamora/505-zamora-coral-gables-kitchen-dining-wine-cellar.webp",
+      alt: "505 Zamora — kitchen, dining, and wine cellar",
+      width: 2400,
+      height: 1600,
+    },
+    {
+      src: "/projects/505-zamora/505-zamora-coral-gables-kitchen-marble-island.webp",
+      alt: "505 Zamora — kitchen with marble island",
+      width: 2400,
+      height: 1600,
+    },
+    {
+      src: "/projects/505-zamora/505-zamora-coral-gables-living-room-open-plan.webp",
+      alt: "505 Zamora — open-plan living room",
+      width: 2400,
+      height: 1600,
+    },
+    {
+      src: "/projects/505-zamora/505-zamora-coral-gables-living-room.webp",
+      alt: "505 Zamora — living room",
+      width: 2400,
+      height: 1600,
+    },
+    {
+      src: "/projects/505-zamora/505-zamora-coral-gables-pool-patio.webp",
+      alt: "505 Zamora — pool and patio",
+      width: 2400,
+      height: 1600,
+    },
+    {
+      src: "/projects/505-zamora/505-zamora-coral-gables-primary-bedroom.webp",
+      alt: "505 Zamora — primary bedroom",
+      width: 2400,
+      height: 1600,
+    },
+    {
+      src: "/projects/505-zamora/505-zamora-coral-gables-front-gate-entrance.webp",
+      alt: "505 Zamora — front gate and entrance drive, Coral Gables",
       width: 2400,
       height: 1600,
     },
@@ -281,12 +329,6 @@ export const projectZamora: ProjectContent = {
       height: 1600,
     },
     {
-      src: "/projects/505-zamora/505-zamora-coral-gables-foyer-interior.webp",
-      alt: "505 Zamora — foyer interior",
-      width: 2400,
-      height: 1600,
-    },
-    {
       src: "/projects/505-zamora/505-zamora-coral-gables-staircase-console-decor.webp",
       alt: "505 Zamora — staircase with console and decor",
       width: 2400,
@@ -295,18 +337,6 @@ export const projectZamora: ProjectContent = {
     {
       src: "/projects/505-zamora/505-zamora-coral-gables-oak-staircase.webp",
       alt: "505 Zamora — oak staircase",
-      width: 2400,
-      height: 1600,
-    },
-    {
-      src: "/projects/505-zamora/505-zamora-coral-gables-living-room.webp",
-      alt: "505 Zamora — living room",
-      width: 2400,
-      height: 1600,
-    },
-    {
-      src: "/projects/505-zamora/505-zamora-coral-gables-living-room-open-plan.webp",
-      alt: "505 Zamora — open-plan living room",
       width: 2400,
       height: 1600,
     },
@@ -323,12 +353,6 @@ export const projectZamora: ProjectContent = {
       height: 1600,
     },
     {
-      src: "/projects/505-zamora/505-zamora-coral-gables-kitchen-marble-island.webp",
-      alt: "505 Zamora — kitchen with marble island",
-      width: 2400,
-      height: 1600,
-    },
-    {
       src: "/projects/505-zamora/505-zamora-coral-gables-kitchen-induction-cooktop.webp",
       alt: "505 Zamora — kitchen with induction cooktop",
       width: 2400,
@@ -341,20 +365,8 @@ export const projectZamora: ProjectContent = {
       height: 1600,
     },
     {
-      src: "/projects/505-zamora/505-zamora-coral-gables-kitchen-dining-wine-cellar.webp",
-      alt: "505 Zamora — kitchen, dining, and wine cellar",
-      width: 2400,
-      height: 1600,
-    },
-    {
       src: "/projects/505-zamora/505-zamora-coral-gables-dining-room-floor-to-ceiling-windows.webp",
       alt: "505 Zamora — dining room with floor-to-ceiling windows",
-      width: 2400,
-      height: 1600,
-    },
-    {
-      src: "/projects/505-zamora/505-zamora-coral-gables-primary-bedroom.webp",
-      alt: "505 Zamora — primary bedroom",
       width: 2400,
       height: 1600,
     },
@@ -401,12 +413,6 @@ export const projectZamora: ProjectContent = {
       height: 1600,
     },
     {
-      src: "/projects/505-zamora/505-zamora-coral-gables-pool-patio.webp",
-      alt: "505 Zamora — pool and patio",
-      width: 2400,
-      height: 1600,
-    },
-    {
       src: "/projects/505-zamora/505-zamora-coral-gables-pool-backyard.webp",
       alt: "505 Zamora — pool and backyard",
       width: 2400,
@@ -433,12 +439,6 @@ export const projectZamora: ProjectContent = {
     {
       src: "/projects/505-zamora/505-zamora-coral-gables-pool-aerial-night.webp",
       alt: "505 Zamora — aerial view of pool at night",
-      width: 2400,
-      height: 1600,
-    },
-    {
-      src: "/projects/505-zamora/505-zamora-coral-gables-aerial-pool-view.webp",
-      alt: "505 Zamora — aerial view of pool and grounds",
       width: 2400,
       height: 1600,
     },
@@ -529,6 +529,18 @@ export const projectPalermo: ProjectContent = {
       width: 1920,
       height: 1080,
     },
+    {
+      src: "/projects/747-palermo/747-palermo-first-floor-plan.jpg",
+      alt: "747 Palermo — first floor plan",
+      width: 1920,
+      height: 1080,
+    },
+    {
+      src: "/projects/747-palermo/747-palermo-second-floor-plan.jpg",
+      alt: "747 Palermo — second floor plan",
+      width: 1920,
+      height: 1080,
+    },
   ],
 };
 
@@ -545,20 +557,38 @@ export const projectValencia: ProjectContent = {
   ],
   slides: [
     {
-      src: "/projects/800-valencia/800-valencia-coral-gables-exterior-front-anderson-rd-main-entrance-render.webp",
-      alt: "800 Valencia — front elevation and main entrance on Anderson Road, Coral Gables",
+      src: "/projects/800-valencia/800-valencia1.jpg",
+      alt: "800 Valencia — exterior study, view one",
       width: 1920,
       height: 1080,
     },
     {
-      src: "/projects/800-valencia/800-valencia-coral-gables-exterior-corner-anderson-rd-valencia-ave-render.webp",
-      alt: "800 Valencia — corner at Anderson Road and Valencia Avenue",
+      src: "/projects/800-valencia/800-valencia2.jpg",
+      alt: "800 Valencia — exterior study, view two",
       width: 1920,
       height: 1080,
     },
     {
-      src: "/projects/800-valencia/800-valencia-coral-gables-exterior-rear-yard-render.webp",
-      alt: "800 Valencia — rear yard and exterior rendering",
+      src: "/projects/800-valencia/800-valencia3.jpg",
+      alt: "800 Valencia — exterior study, view three",
+      width: 1920,
+      height: 1080,
+    },
+    {
+      src: "/projects/800-valencia/800-valencia-ground-floor.jpg",
+      alt: "800 Valencia — ground floor plan",
+      width: 1920,
+      height: 1080,
+    },
+    {
+      src: "/projects/800-valencia/800-valencia-secong-floor.jpg",
+      alt: "800 Valencia — second floor plan",
+      width: 1920,
+      height: 1080,
+    },
+    {
+      src: "/projects/800-valencia/800-valencia-site-plan.jpg",
+      alt: "800 Valencia — site plan",
       width: 1920,
       height: 1080,
     },
